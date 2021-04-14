@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amruthmonnappa
-- 👀 I’m interested in ...PHYTHON and ANDROID
+- 👀 I’m interested in ...PYTHON and ANDROID
 - 🌱 I’m currently learning ...Bachelor in Science(Physics,Computer-Science,Maths)
 - 💞️ I’m looking to collaborate on ...Phython Projects
 - 📫 How to reach me ...amruthmonnappa19@gmail.com
