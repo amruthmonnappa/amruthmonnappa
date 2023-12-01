@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amruth Monnappa </h1>
 <h3 align="center">A passionate Frontend developer & UI design</h3>
 
-- 🌱 I’m currently learning **Figma** 
+- 🌱 I’m currently learning **NextJS** 
 - 📫 How to reach me **amruthmonnappa19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
